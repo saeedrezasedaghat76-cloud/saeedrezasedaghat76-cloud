@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="banner.png" width="100%" />
-</p>
+
+![IMG_2476](https://github.com/user-attachments/assets/da954a82-3ed8-4e60-a6d5-16a1eacf0075)
 
 <h1 align="center">Saeed Sedaghat 👋</h1>
 <h3 align="center">
