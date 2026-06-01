@@ -1,5 +1,5 @@
 
-![IMG_2476](https://github.com/user-attachments/assets/da954a82-3ed8-4e60-a6d5-16a1eacf0075)
+<img width="1693" height="929" alt="ChatGPT Image Jun 1, 2026, 12_12_30 PM" src="https://github.com/user-attachments/assets/22ed16a8-4347-4fdf-bb8a-bd0e9bf0733c" />
 
 <h1 align="center">Saeed Sedaghat 👋</h1>
 <h3 align="center">
