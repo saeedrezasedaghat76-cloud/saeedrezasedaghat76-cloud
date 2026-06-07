@@ -238,7 +238,7 @@ ASP.NET Core • SQL Server • Clean Architecture • CQRS
 
 💼 **LinkedIn:** https://www.linkedin.com/in/saeed-sedaghat
 
-🐙 **GitHub:** https://github.com/YOUR_USERNAME
+🐙 **GitHub:** https://github.com/saeedrezasedaghat76-cloud
 
 ---
 
