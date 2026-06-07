@@ -1,5 +1,6 @@
 
-<img width="1693" height="929" alt="ChatGPT Image Jun 1, 2026, 12_12_30 PM" src="https://github.com/user-attachments/assets/22ed16a8-4347-4fdf-bb8a-bd0e9bf0733c" />
+<img width="1983" height="793" alt="ChatGPT Image Jun 7, 2026, 02_13_28 PM" src="https://github.com/user-attachments/assets/1c3508bd-f908-481e-8312-22f0c3acff5b" />
+
 
 <h1 align="center">Saeed Sedaghat 👋</h1>
 <h3 align="center">
@@ -93,6 +94,8 @@ Features:
 
 ---
 
+
+<img width="1693" height="929" alt="ChatGPT Image Jun 1, 2026, 12_12_30 PM" src="https://github.com/user-attachments/assets/22ed16a8-4347-4fdf-bb8a-bd0e9bf0733c" />
 ## 📊 GitHub Stats
 
 <p align="center">
