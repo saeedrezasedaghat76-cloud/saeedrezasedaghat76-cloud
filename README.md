@@ -1,62 +1,68 @@
 
 <img width="1983" height="793" alt="ChatGPT Image Jun 7, 2026, 02_13_28 PM" src="https://github.com/user-attachments/assets/1c3508bd-f908-481e-8312-22f0c3acff5b" />
 
-<h1 align="center">Hi 👋, I'm Saeed Sedaghat</h1>
+<div align="center">
 
-<h3 align="center">
-.NET Backend Developer
-</h3>
+# Saeed Sedaghat
 
-<p align="center">
-Building ERP, Inventory Management, Accounting, and E-Commerce Systems with ASP.NET Core, Clean Architecture, and CQRS.
-</p>
+### .NET Backend Developer | ASP.NET Core | Clean Architecture | CQRS
 
-<p align="center">
-📍 Shiraz, Iran &nbsp; • &nbsp; 🌍 Open to Remote Opportunities Worldwide
-</p>
+Building scalable business applications, enterprise platforms, and high-performance backend systems.
 
----
+📍 Shiraz, Iran • 🌍 Open to Remote Opportunities Worldwide
 
-## 🚀 About Me
+[LinkedIn](https://www.linkedin.com/in/saeed-sedaghat) • [GitHub](https://github.com/saeedrezasedaghat76-cloud)
 
-I am a .NET Backend Developer focused on building scalable business applications and enterprise-grade backend systems.
-
-My experience includes developing ERP solutions, Inventory Management Systems, Accounting Applications, and E-Commerce Platforms using ASP.NET Core, SQL Server, and modern software architecture principles.
-
-I enjoy designing maintainable systems, building reliable APIs, and solving real business problems through clean and scalable software solutions.
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## About Me
 
-### Backend Development
+I'm a .NET Backend Engineer focused on designing and developing scalable, maintainable, and business-critical software.
 
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs" />
-</p>
+My experience includes building ERP systems, Inventory Management Platforms, Accounting Solutions, Administrative Dashboards, and E-Commerce Applications using ASP.NET Core, Entity Framework Core, SQL Server, Clean Architecture, and CQRS.
+
+I enjoy solving complex business problems through software engineering, designing robust APIs, improving system maintainability, and building solutions that can scale as business requirements evolve.
+
+### Core Strengths
+
+* Backend System Design
+* ASP.NET Core Development
+* RESTful API Development
+* Clean Architecture
+* CQRS Pattern
+* SQL Server Database Design
+* Authentication & Authorization
+* Business Process Automation
+* Performance Optimization
+* Software Maintainability
+
+---
+
+## Tech Stack
+
+### Backend
 
 * ASP.NET Core
 * C#
 * Entity Framework Core
-* RESTful API Development
 * SQL Server
-* Authentication & Authorization
-* JWT & Identity
+* REST APIs
+* JWT Authentication
+* ASP.NET Identity
 
-### Architecture & Design
+### Architecture & Engineering
 
 * Clean Architecture
 * CQRS
 * SOLID Principles
 * Domain-Driven Design (DDD)
-* Object-Oriented Programming (OOP)
-* Separation of Concerns
+* Object-Oriented Programming
+* Repository Pattern
+* Dependency Injection
 
-### Frontend (Supporting Full-Stack Delivery)
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
+### Frontend
 
 * HTML5
 * CSS3
@@ -64,162 +70,169 @@ I enjoy designing maintainable systems, building reliable APIs, and solving real
 * Bootstrap
 * Progressive Web Applications (PWA)
 
-### Tools & Workflow
+### Dev Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
-</p>
-
-* Git & GitHub
+* Git
+* GitHub
 * Docker
 * Postman
-* Agile Development
-* Remote Team Collaboration
-* CI/CD Concepts
+* CI/CD Fundamentals
 
 ---
 
-## 💼 Business Domains
+## Business Domains
 
-I have experience developing software solutions in the following domains:
+### Enterprise Resource Planning (ERP)
 
-🏢 ERP Systems
+Designing and developing business management platforms that streamline organizational workflows and operations.
 
-📦 Inventory Management
+### Inventory Management
 
-💰 Accounting Systems
+Building systems for stock monitoring, product tracking, inventory control, and operational reporting.
 
-🛒 E-Commerce Platforms
+### Accounting Systems
 
-⚙️ Business Process Automation
+Developing software solutions for transaction management, financial record keeping, and business reporting.
 
-📊 Administrative Dashboards
+### E-Commerce Platforms
+
+Creating scalable online commerce solutions with authentication, payments, product management, and order processing.
 
 ---
 
-## 🌟 Featured Projects
+# Featured Projects
 
-### 🛒 E-Commerce Platform (PWA)
+## Enterprise E-Commerce Platform
 
-Production-ready E-Commerce platform designed using Clean Architecture and CQRS.
+Production-oriented E-Commerce platform built with ASP.NET Core and modern software architecture principles.
 
-#### Features
+### Features
 
 * OTP Authentication
-* User Registration & Account Management
-* Shopping Cart & Wishlist
+* User Registration & Profile Management
 * Product Catalog Management
 * Product Search & Filtering
+* Shopping Cart
+* Wishlist
 * Order Processing Workflow
-* Online Payment Integration
+* Payment Gateway Integration
 * Product Reviews & Ratings
 * Administrative Dashboard
 * Progressive Web Application (PWA)
 
-#### Architecture
+### Technical Highlights
 
 * Clean Architecture
 * CQRS Pattern
-* SOLID Principles
+* Entity Framework Core
+* SQL Server
+* JWT Authentication
+* Layered Design
 
-#### Tech Stack
+### Technologies
 
 ASP.NET Core • Entity Framework Core • SQL Server • JavaScript • Bootstrap
 
 ---
 
-### 📦 Inventory Management System
+## Inventory Management System
 
-Inventory platform designed to improve stock tracking and operational efficiency.
+Backend-driven inventory platform designed to improve stock visibility and operational efficiency.
 
-#### Features
+### Features
 
-* Product Inventory Tracking
-* Stock Management
+* Inventory Tracking
+* Product Management
+* Stock Monitoring
 * Reporting & Analytics
-* Product Categorization
-* Inventory Monitoring
+* Category Management
+* Operational Dashboards
 
-#### Tech Stack
+### Technologies
 
 ASP.NET Core • Entity Framework Core • SQL Server • Clean Architecture
 
 ---
 
-### 💰 Accounting Management System
+## Accounting Management System
 
-Accounting solution focused on managing financial operations and business processes.
+Business-oriented accounting solution focused on reliability, security, and maintainability.
 
-#### Features
+### Features
 
 * Transaction Management
-* Financial Record Tracking
-* Reporting Modules
-* Secure Data Processing
-* Scalable Backend Design
+* Financial Reporting
+* Record Tracking
+* User Access Management
+* Data Security
 
-#### Tech Stack
+### Technologies
 
-ASP.NET Core • SQL Server • Clean Architecture • CQRS
+ASP.NET Core • SQL Server • CQRS • Clean Architecture
 
 ---
 
-### 🏢 ERP & Business Management Platform
+## ERP & Business Management Platform
 
-Business-oriented platform designed to streamline organizational workflows.
+Enterprise platform designed to centralize and automate business operations.
 
-#### Features
+### Features
 
 * Workflow Management
-* Administrative Dashboards
 * Reporting Modules
 * User & Role Management
-* Scalable Architecture
+* Business Process Automation
+* Administrative Dashboards
 
-#### Tech Stack
+### Technologies
 
 ASP.NET Core • SQL Server • Clean Architecture • CQRS
 
 ---
 
-## 🎯 What I Can Help With
+## Engineering Principles
+
+I believe great software is built through:
+
+* Clean and maintainable code
+* Clear separation of concerns
+* Scalable architecture
+* Continuous improvement
+* Business-oriented problem solving
+* Long-term maintainability
+
+---
+
+## What I Can Help With
 
 ✔ ASP.NET Core Backend Development
 
-✔ REST API Design & Development
+✔ Enterprise Software Development
 
-✔ ERP & Enterprise Applications
+✔ ERP Systems
 
-✔ Inventory Management Systems
+✔ Inventory Management Platforms
 
-✔ Accounting Software Solutions
+✔ Accounting Applications
 
-✔ E-Commerce Platforms
+✔ REST API Design
 
-✔ Authentication & Authorization Systems
+✔ Authentication & Authorization
 
-✔ Clean Architecture & CQRS
+✔ Clean Architecture Implementation
 
-✔ SQL Server Optimization
+✔ CQRS Adoption
+
+✔ SQL Server Design & Optimization
 
 ✔ Legacy System Refactoring
 
 ---
 
-## 📚 Currently Learning
-
-* Advanced Software Architecture
-* Domain-Driven Design (DDD)
-* Distributed Systems
-* Performance Optimization
-* Scalable Backend Engineering
-
----
-
-## 📈 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saeedrezasedaghat76-cloud&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saeedrezasedaghat76-cloud&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -227,40 +240,34 @@ ASP.NET Core • SQL Server • Clean Architecture • CQRS
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saeedrezasedaghat76-cloud&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedrezasedaghat76-cloud&layout=compact&theme=tokyonight" />
 </p>
-
-## 🌐 Connect With Me
-
-📧 **Email:** [sedaghatsaeedreza@yahoo.com](mailto:sedaghatsaeedreza@yahoo.com)
-
-💼 **LinkedIn:** https://www.linkedin.com/in/saeed-sedaghat
-
-🐙 **GitHub:** https://github.com/saeedrezasedaghat76-cloud
 
 ---
 
-## 🤝 Open To
+## Connect With Me
 
-* Remote .NET Developer Roles
+📧 Email: [sedaghatsaeedreza@yahoo.com](mailto:sedaghatsaeedreza@yahoo.com)
+
+💼 LinkedIn: linkedin.com/in/saeed-sedaghat
+
+🐙 GitHub: github.com/saeedrezasedaghat76-cloud
+
+---
+
+## Open To
+
+* Remote .NET Backend Engineer Roles
 * Backend Development Opportunities
-* ERP & Enterprise Software Projects
+* Enterprise Software Projects
+* International Teams
+* Long-Term Collaborations
 * Freelance Projects
-* Long-Term International Collaborations
 
 ---
 
-<p align="center">
-💡 <i>Building software that solves real business problems and scales with growth.</i>
-</p>
+<div align="center">
 
-## 🎯 Current Focus
+### Building software that solves real business problems and scales with growth.
 
-- Enterprise system development  
-- API performance optimization  
-- Designing scalable architectures  
-- Collaborating on long-term international projects  
-
----
-
-> "Good architecture means building systems that can be confidently developed tomorrow."
+</div>
