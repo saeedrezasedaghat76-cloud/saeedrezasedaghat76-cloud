@@ -1,18 +1,21 @@
+ <div align="center">
 
-<img width="1983" height="793" alt="ChatGPT Image Jun 7, 2026, 02_13_28 PM" src="https://github.com/user-attachments/assets/1c3508bd-f908-481e-8312-22f0c3acff5b" />
-<div align="center">
+<h1>Saeed Sedaghat</h1>
 
-# Saeed Sedaghat
+<h3>.NET Backend Developer</h3>
 
-### .NET Backend Engineer
+<p>
+Building backend applications for real business needs using C#, ASP.NET Core, and SQL Server.
+</p>
 
-Building scalable ERP, E-Commerce, Inventory Management, and Accounting Systems using ASP.NET Core, Clean Architecture, and CQRS.
+<p>
+<a href="https://www.linkedin.com/in/saeed-sedaghat">LinkedIn</a> ·
+<a href="mailto:sedaghatsaeedreza@yahoo.com">Email</a>
+</p>
 
-📍 Shiraz, Iran
-🌍 Open to Full-Time Opportunities Across Europe
-✈️ Available for Relocation
-
-[LinkedIn](https://www.linkedin.com/in/saeed-sedaghat) • [GitHub](https://github.com/saeedrezasedaghat76-cloud)
+<p>
+Open to .NET Backend Developer opportunities in the Netherlands, Germany, and the UK.
+</p>
 
 </div>
 
@@ -20,183 +23,96 @@ Building scalable ERP, E-Commerce, Inventory Management, and Accounting Systems 
 
 ## About Me
 
-I'm a .NET Backend Engineer focused on designing and building scalable backend systems for real business domains.
+I'm a .NET Backend Developer focused on building business applications with C#, ASP.NET Core, Entity Framework Core, and SQL Server.
 
-I specialize in developing ERP systems, inventory management platforms, accounting applications, and e-commerce solutions using ASP.NET Core, SQL Server, Entity Framework Core, Clean Architecture, and CQRS.
+My project experience includes accounting and inventory management, e-commerce, and ticketing systems. I focus on backend logic, database relationships, application architecture, and maintainable software design.
 
-My focus is on writing maintainable, scalable, and production-oriented backend systems that can evolve with business needs.
-
----
-
-## What I Bring
-
-✔ Backend system design and development
-✔ Scalable REST API architecture with ASP.NET Core
-✔ Clean Architecture and CQRS implementation
-✔ ERP, Inventory, Accounting, and E-Commerce domain experience
-✔ Database design and optimization (SQL Server)
-✔ Authentication & Authorization systems
-✔ Maintainable and testable software design
+I enjoy solving practical business problems and building applications with clear responsibilities and structured code.
 
 ---
 
 ## Technical Skills
 
-### Backend
+**Backend Development**
+- C#
+- .NET / ASP.NET Core
+- RESTful APIs
+- Entity Framework Core
+- LINQ
+- ASP.NET Core Identity
 
-* ASP.NET Core
-* C#
-* Entity Framework Core
-* SQL Server
-* REST APIs
-* JWT Authentication
-* ASP.NET Identity
+**Architecture & Design**
+- Clean Architecture
+- CQRS
+- Object-Oriented Programming (OOP)
+- Dependency Injection
+- Layered Architecture
 
-### Architecture
+**Databases & Tools**
+- Microsoft SQL Server
+- Docker
+- Git & GitHub
+- Postman
+- IIS
 
-* Clean Architecture
-* CQRS
-* SOLID Principles
-* Domain-Driven Design (DDD)
-* Layered Architecture
-* Dependency Injection
-* Repository Pattern
-
-### Tools
-
-* Git & GitHub
-* Docker
-* Postman
-
----
-
-## Business Domains
-
-### ERP Systems
-
-Enterprise platforms for managing workflows, users, reporting, and business operations.
-
-### Inventory Management
-
-Systems for stock tracking, product management, and operational reporting.
-
-### Accounting Systems
-
-Financial applications for transaction processing and reporting.
-
-### E-Commerce Platforms
-
-Online commerce systems with payment workflows, product management, and order processing.
+**Additional Technologies**
+- Blazor Server
+- ZarinPal Payment Integration
+- OTP Verification
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-### E-Commerce Platform
+### Accounting & Inventory Management System
 
-A modular e-commerce system built with Clean Architecture and CQRS.
+An integrated business application for accounting, financial documents, invoices, payments, cheques, and warehouse operations.
 
-**Features:**
+**Key Areas**
+- Financial document and transaction management
+- Sales, purchasing, and invoicing workflows
+- Inventory updates and stock validation
+- Reporting and access control
 
-* Authentication (OTP / JWT)
-* Product catalog management
-* Cart & wishlist
-* Order workflow
-* Payment integration
-* Admin dashboard
+**Technologies:** C#, ASP.NET Core, Entity Framework Core, SQL Server, Clean Architecture, CQRS, ASP.NET Core Identity, Docker, IIS.
 
-**Tech Stack:**
-ASP.NET Core • EF Core • SQL Server • JavaScript • Bootstrap
+### E-Commerce Web Application — Sevilay Style
 
----
+An online store supporting product management, customer accounts, shopping carts, order processing, and online payments.
 
-### Inventory Management System
+**Key Areas**
+- Product variants and configurable attributes
+- Color-specific stock management
+- Discounts and product image management
+- ZarinPal & Stripe payment integration and OTP verification
 
-A backend system designed for efficient stock and product management.
+**Technologies:** C#, ASP.NET Core, RESTful APIs, Entity Framework Core, SQL Server, Clean Architecture.
 
-**Features:**
+### Ticketing & Support System
 
-* Inventory tracking
-* Stock monitoring
-* Product categorization
-* Reporting dashboard
+A support application for managing customer requests and communication between clients and support agents.
 
-**Tech Stack:**
-ASP.NET Core • EF Core • SQL Server • Clean Architecture
+**Key Areas**
+- Ticket creation and status tracking
+- Priority management and customer responses
+- Relationships between tickets, users, and messages
+- Role-based access for Admin, Agent, and Client
 
----
-
-### Accounting System
-
-Business financial system for managing transactions and records.
-
-**Features:**
-
-* Transaction management
-* Financial reporting
-* Secure data handling
-* Business workflows
-
-**Tech Stack:**
-ASP.NET Core • SQL Server • CQRS • Clean Architecture
+**Technologies:** C#, Blazor Server, Entity Framework Core, SQL Server, ASP.NET Core Identity.
 
 ---
 
-### ERP System
+## Engineering Approach
 
-Enterprise system for managing organizational processes.
-
-**Features:**
-
-* User & role management
-* Workflow automation
-* Reporting modules
-* Admin dashboards
-
-**Tech Stack:**
-ASP.NET Core • SQL Server • Clean Architecture • CQRS
-
----
-
-## Engineering Focus
-
-* Writing maintainable backend systems
-* Designing scalable architectures
-* Solving real business problems
-* Improving system performance
-* Building production-ready APIs
-
----
-
-## Current Focus
-
-* Enterprise backend systems
-* API performance optimization
-* Scalable system design
-* Domain-driven architecture
-
----
-
-## Open To
-
-* Full-Time .NET Backend Engineer Roles
-* Relocation Opportunities in Europe
-* Enterprise Software Engineering Positions
-* International Engineering Teams
+- Organizing backend code into clear responsibilities
+- Designing database entities and relationships around business requirements
+- Implementing authentication and authorization
+- Structuring applications with maintainability in mind
+- Documenting project functionality, architecture, and technical decisions
 
 ---
 
 ## Contact
 
-📧 Email: [sedaghatsaeedreza@yahoo.com](mailto:sedaghatsaeedreza@yahoo.com)
-💼 LinkedIn: linkedin.com/in/saeed-sedaghat
-🐙 GitHub: saeedrezasedaghat76-cloud
-
----
-
-<div align="center">
-
-### Building scalable software that solves real business problems.
-
-</div>
-
+- **LinkedIn:** https://www.linkedin.com/in/saeed-sedaghat
+- **Email:** sedaghatsaeedreza@yahoo.com
